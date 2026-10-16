@@ -6,10 +6,10 @@
 
 | アプリ | 接続方法・用途 | 現行版 | リリース |
 |---|---|---:|---|
-| **スマホ版 — Tailscale** | アプリ内の Tailscale 接続で、自宅サーバーへ安全に接続 | 0.4.56 | [Phone v0.4.56](https://github.com/3dmqrk/lan-media-library-releases/releases/tag/phone-v0.4.56) |
-| **スマホ版 — Direct / Funnel** | Funnel 経由で接続。スマホに別の VPN アプリを入れずに使う | 1.0.4 | [Phone Direct v1.0.4](https://github.com/3dmqrk/lan-media-library-releases/releases/tag/phone-direct-v1.0.4) |
-| **Fire TV — LAN** | 家の Wi-Fi など、サーバーと同じローカルネットワークで使う | 0.9.14 | [Fire TV v0.9.14](https://github.com/3dmqrk/lan-media-library-releases/releases/tag/v0.9.14) |
-| **Fire TV — Funnel** | Tailscale Funnel 経由で Fire TV から接続 | 1.0.4 | [Fire TV Funnel v1.0.4](https://github.com/3dmqrk/lan-media-library-releases/releases/tag/v1.0.4) |
+| **スマホ版 — Tailscale** | アプリ内の Tailscale 接続で、自宅サーバーへ安全に接続 | 0.4.56 | [Phone (Tailscale) v0.4.56](https://github.com/3dmqrk/lan-media-library-releases/releases/tag/phone-v0.4.56) |
+| **スマホ版 — Direct / Funnel** | Funnel 経由で接続。スマホに別の VPN アプリを入れずに使う | 1.0.4 | [Phone Direct (Funnel) v1.0.4](https://github.com/3dmqrk/lan-media-library-releases/releases/tag/phone-direct-v1.0.4) |
+| **Fire TV — LAN** | 家の Wi-Fi など、サーバーと同じローカルネットワークで使う | 0.9.14 | [Fire TV (LAN) v0.9.14](https://github.com/3dmqrk/lan-media-library-releases/releases/tag/v0.9.14) |
+| **Fire TV — Funnel** | Tailscale Funnel 経由で Fire TV から接続 | 1.0.4 | [Fire TV (Funnel) v1.0.4](https://github.com/3dmqrk/lan-media-library-releases/releases/tag/v1.0.4) |
 
 ### 迷ったとき
 
